@@ -1,4 +1,15 @@
 {
+    "name": "yii2-starter-kit/yii2-starter-kit",
+    "description": "Yii2 Starter Kit Application Template",
+    "keywords": [
+        "dtsmart"
+    ],
+    "license": "BSD-3-Clause",
+    "authors": [{
+        "name": "Khuongdev2001",
+        "email": "khuongnh@dtsmart.vn",
+        "homepage": "https://terentev.net"
+    }],
     "config": {
         "process-timeout": 1800,
         "vendor-dir": "./nguyenhuukhuong"
